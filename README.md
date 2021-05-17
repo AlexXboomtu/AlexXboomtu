@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexXboomtu
-- 👀 I’m I am interested in learning more about termux command configurations and everything that has to do with the subject  
+- 👀 I’m I am interested in termux ... 
 - 🌱 I'm currently learning ...
-- 💪 Any support you can give me about termux Thank you
+- 💪 I'm Any support you can give me about termux ...
 - 📫 How to reach me ...https://t.me/AlexXboomtu
 
 <!---
